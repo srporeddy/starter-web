@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 Sample website with plenty of files for demos. Only for smart cookies.
 
 ## Deployment
-Info on how to deploy the files for this project
+Info on how to deploy the files for this project. Will be updated in near future.
 
 ## How to contribute
 
