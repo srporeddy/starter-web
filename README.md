@@ -1,11 +1,10 @@
 # Starter Web Repo
 
-
 This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Sample website with plenty of files for demos. Use at your own discretion.
+Sample website with plenty of files for demos. Use at your own discretion. This will be a demo for rebase from master and feature.
 
 ## Purpose
 
