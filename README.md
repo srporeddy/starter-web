@@ -8,7 +8,7 @@ Sample website with plenty of files for demos. Use at your own discretion. This 
 
 ## Purpose
 
-Sample website with plenty of files for demos. Only for smart cookies.
+Sample website with plenty of files for demos. Only for smart cookies. No need to repeat.
 
 ## Deployment
 Info on how to deploy the files for this project. Will be updated in near future.
