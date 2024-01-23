@@ -14,7 +14,7 @@ Sample website with plenty of files for demos. Only for smart cookies.
 Info on how to deploy the files for this project. Will be updated in near future.
 
 ## How to contribute
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Good jon on taking this course on Udemy!
 
 ## Copyright
 Must take permission due to copyright issues
