@@ -17,6 +17,6 @@ Info on how to deploy the files for this project. Will be updated in near future
 Sample website with plenty of files for demos. Good jon on taking this course on Udemy!
 
 ## Copyright
-Must take permission due to copyright issues
+Must take permission due to copyright issues. I am the lord of Rings at times.
 
 
