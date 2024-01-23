@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Sample website with plenty of files for demos. Use at your own discretion. This will be a demo for rebase from master and feature.
+Sample website with plenty of files for demos. Use at your own discretion. This will be a demo for rebase from master and feature. I am going another test to verify the graph view.
 
 ## Purpose
 
