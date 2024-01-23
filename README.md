@@ -7,7 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos. Use at your own discretion. This will be a demo for rebase from master and feature. I am going another test to verify the graph view.
 
 ## Purpose
-
+Temporary changes for a quick production fix!
 Sample website with plenty of files for demos. Only for smart cookies. No need to repeat.
 
 ## Deployment
