@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Sample website with plenty of files for demos. More stash tests.
+Sample website with plenty of files for demos. More stash tests. Tag version 1.1
 
 ## Purpose
 Temporary changes for a quick production fix!
